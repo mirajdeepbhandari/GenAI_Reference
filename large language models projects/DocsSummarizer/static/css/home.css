@@ -1,0 +1,67 @@
+.navwrap{
+    
+  
+    padding: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.navlinkq{
+
+    text-decoration: none;
+    color: aquamarine;
+  
+}
+
+.nam{
+
+    margin-left: 15px;
+}
+
+.uploader{
+
+    background-color: beige;
+    margin-top: 10px;
+    height: 275px;
+}
+
+.chostext{
+
+  padding: 20px;
+  padding-left: 15px;
+  font-weight: 600;
+}
+
+.upl{
+
+    padding: 10px;
+}
+
+.output-template {
+
+    background-color: #effdf3;
+    width: 100%;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+
+.ochat {
+    padding: 10px;
+}
+
+.output-display {
+
+    padding: 10px;
+    font-family: serif;
+    width: 100%;
+    margin-bottom: 50px;
+
+
+}
+
+.output-display pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    line-height: 1.5
+
+  }

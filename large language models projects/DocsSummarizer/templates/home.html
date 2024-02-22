@@ -1,0 +1,35 @@
+
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block content %}
+
+<nav class="bg-dark navwrap">
+    <a href="#"><img src="{% static 'images/doc.jpg' %}" alt='logo' width='50px'></a>
+    <a class='navlinkq' href="#"><h5 class='nam'>Document Summarizer an AI Tool</h5></a>
+</nav>
+
+<section class="uploader"> 
+    <form method="post" enctype="multipart/form-data"> <!-- Added form tag -->
+        {% csrf_token %}
+        <p class='chostext'> Choose Your PDF FILE : </P>
+
+        <div class="mb-3 upl">
+            <input class="form-control" type="file" name="formFileMultiple" id="formFileMultiple" multiple> <!-- Added name attribute -->
+            <br><br>
+            <button type="submit" class="btn btn-success">upload</button> <!-- Changed button type to submit -->
+        </div>
+    </form> <!-- Added form tag -->
+
+</section>
+<br><br>
+<div class="output-template"> 
+    <p class="ochat"> AI: Check Your Summary Here !!! </p>
+    <section class="output-display">
+        <pre>{{summary}}</pre>
+    </section>
+</div>
+
+
+{% endblock content %}

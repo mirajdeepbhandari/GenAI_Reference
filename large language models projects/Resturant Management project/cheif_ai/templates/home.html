@@ -1,0 +1,77 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+
+
+ {% comment %} nav section {% endcomment %}
+
+ <div class="pos-f-t">
+  <div class="collapse" id="navbarToggleExternalContent">
+    <div class="bg-dark p-4">
+      <h5 class="text-white">... Resturant Management APP ...</h5>
+      <span class="text-muted" >"Titan: I am AI Powered Chief HAHAHA!"</span>
+    </div>
+  </div>
+  <nav class="navbar navbar-dark bg-dark">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <h5 id="m" style="color:white; margin-right:10px; " >Titan Chief: A Recepie Bot</h5>
+  </nav>
+
+  {% comment %} End nav section {% endcomment %}
+
+
+
+
+<!-- Text with animation -->
+<div class="text-animation mt-4">
+  <span>Make</span>
+  <span>a</span>
+  <span>request</span>
+  <span>for</span>
+  <span>recipe</span>
+  <span>from</span>
+  <span>our</span>
+  <span>Titan</span>
+  <span>chef !</span>
+</div>
+
+
+
+
+{% comment %} form {% endcomment %}
+<br>
+<form action="" method="post">
+  {% csrf_token %}
+  <div class="form-group">
+    <label for="prompt"> Titan : Hello There Titan The Chief Here !!!</label>
+    <textarea class="form-control no-resize" id="prompt" rows="6" name='userask'>{{ userques }}</textarea>
+
+  </div>
+  <div class="center-button">
+    <a href="{% url 'home-page' %}" ><button type="sumbit" class="btn btn-success">Lets Cook !!!</button></a>
+  </div>
+
+  <br>
+
+  {% comment %} end form {% endcomment %}
+
+  
+
+
+
+  {% comment %} output template {% endcomment %}
+
+  <div class="output-template"> 
+  <p class="ochat"> Titan: Check Your Recepie Here !!! </p>
+  <section class="output-display">
+  <pre>{{modelans}}</pre>
+  </section>
+
+  </div>
+</form>
+  
+{% endblock content %}
+  

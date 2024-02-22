@@ -1,0 +1,76 @@
+@keyframes reveal {
+    0% {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.text-animation {
+    background-color: #d5dad5;
+    text-align: center;
+    font-size: 15px;
+
+}
+
+
+.text-animation span {
+    display: inline-block;
+    opacity: 0;
+    animation: reveal 0.5s forwards;
+}
+
+.no-resize {
+    resize: none;
+}
+
+
+.text-animation span:nth-child(1) {
+    animation-delay: 0s;
+}
+
+.text-animation span:nth-child(2) {
+    animation-delay: 0.5s;
+}
+
+.text-animation span:nth-child(3) {
+    animation-delay: 1s;
+}
+
+.center-button {
+    text-align: center;
+}
+
+.output-template {
+
+    background-color: #fdeff2;
+    min-height: 220px;
+    width: 100%;
+}
+
+.ochat {
+    padding: 10px;
+}
+
+.output-display {
+
+    padding: 10px;
+    font-family: serif;
+    width: 100%;
+    margin-bottom: 50px;
+
+
+}
+
+.output-display pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    margin-bottom: 1px;
+    line-height: 1.5
+
+  }
+  
