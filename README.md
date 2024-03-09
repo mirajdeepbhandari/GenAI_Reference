@@ -27,11 +27,11 @@
 
 | Steps                                                        | Description                                               | Resources                                                                             |
 | ----------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 1) Prepare the txt file containing questions and answers    | Collect and organize questions and corresponding answers  | [🔗](#) Example of dataset                                                            |
-| 2) Format the txt file into Gemma Accepting Template CSV        | Convert the data into a format compatible with Gemma    | [🔗](#) Example of Gemma accepting template data<br><br>[🔗](#) Code for formation of Gemma accepting CSV |
+| 1) Prepare the txt file containing questions and answers    | Collect and organize questions and corresponding answers  | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/gemma%202b-it%20model/yungridataset.txt) Example of dataset                                                            |
+| 2) Format the txt file into Gemma Accepting Template CSV        | Convert the data into a format compatible with Gemma    | [🔗](https://huggingface.co/datasets/mirajbhandari/gemma_2b_it_dataset) Example of Gemma accepting template data<br><br>[🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/gemma%202b-it%20model/Dataset_formation_for_gemma.ipynb) Code for formation of Gemma accepting CSV |
 | 3) Upload the Gemma Accepting Csv file into Hugging Face dataset repo | Share the dataset in Hugging Face repo to use it in training directly  | -                                                                                     |
-| 4) Run the Jupyter Code for Tuning Gemma with just prepared dataset | Execute the code to fine-tune Gemma with the prepared dataset | [🔗](#) Train Code                                                                 |
-| 5) Test the Tuned model                                      | Evaluate the performance of the fine-tuned model          | [🔗](#) Test Code    |
+| 4) Run the Jupyter Code for Tuning Gemma with just prepared dataset | Execute the code to fine-tune Gemma with the prepared dataset | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/gemma%202b-it%20model/gemma_2b_it_finetune.ipynb) Train Code                                                                 |
+| 5) Test the Tuned model                                      | Evaluate the performance of the fine-tuned model          | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/gemma%202b-it%20model/testing%20the%20fine%20tuned%20gemma%20chat%20model/Testing_gemma_fine_Tuning_model.ipynb) Test Code    |
 
 
 # Contributing
