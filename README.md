@@ -8,7 +8,8 @@
 | ------------------------------------------- | :-------: |
 | a) Fine Tune Llama 2 Chat Model (Code)      | [🔗](#fine-tuning-llama-2-steps)  |
 | b) Fine Tune Gemma 2b-it Chat Model (Code)  | [🔗](#fine-tuning-gemma-steps)  |
-| c) Fine Tune Mistral-7B Chat Model (Code)  | [🔗](#fine-tuning-Mistral-steps)  |
+| c) Fine Tune Mistral-7B Chat Model (Code)   | [🔗](#fine-tuning-Mistral-steps)  |
+
 <br><br>
 ## 1.2) Find Chat Template for Fine-Tuning of any Models 
 | Notebook File                               | Click Below |
