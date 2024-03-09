@@ -9,7 +9,7 @@
 | 1) Fine Tune Llama 2 Chat Model (Code)      | [🔗](#fine-tuning-llama-2-steps)  |
 | 2) Fine Tune Gemma 2b-it Chat Model (Code)  | [🔗](#fine-tuning-gemma-steps)  |
 
-### Fine Tuning Llama 2 Steps:
+### SFT Fine Tuning Llama 2 Steps:
 
 | Steps                                                        | Description                                               | Resources                                                                             |
 | ----------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------- |
@@ -19,7 +19,7 @@
 | 4) Run the Jupyter Code for Tuning the Llama 2 with just prepared dataset | Execute the code to fine-tune Llama 2 with the prepared dataset | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/llma%202%20chat%20model/llma2chatfinetuning.ipynb) Train Code                                                                 |
 | 5) Test the Tuned model                                      | Evaluate the performance of the fine-tuned model          | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/llma%202%20chat%20model/testing%20the%20fine%20tuned%20llma2%20chat%20model/testing_llma2_after_fine_tuned.ipynb) Test Code                                                                    |
 
-### Fine Tuning Gemma Steps:
+### SFT Fine Tuning Gemma Steps:
 
 | Steps                                                        | Description                                               | Resources                                                                             |
 | ----------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------- |
