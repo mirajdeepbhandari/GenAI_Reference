@@ -5,7 +5,7 @@
 
 ## Fine-Tuning Models (Train on Custom DataSet Code)
 
-| Content                                       | Resources |
+| Content                                       | Click Below |
 | ------------------------------------------- | :-------: |
 | 1) Fine Tune Llama 2 Chat Model (Code)      | [🔗](#fine-tuning-llama-2-steps)  |
 | 2) Fine Tune Gemma 2b-it Chat Model (Code)  | [🔗](#fine-tuning-gemma-steps)  |
