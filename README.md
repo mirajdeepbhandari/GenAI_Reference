@@ -40,11 +40,24 @@
 | 5) Test the Tuned model                                      | Evaluate the performance of the fine-tuned model          | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/gemma%202b-it%20model/testing%20the%20fine%20tuned%20gemma%20chat%20model/Testing_gemma_fine_Tuning_model.ipynb) Test Code    |
 
 <br><br>
+
+### a) SFT Fine Tuning Mistral Steps:
+
+| Steps                                                        | Description                                               | Resources                                                                             |
+| ----------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 1) Prepare the txt file containing questions and answers    | Collect and organize questions and corresponding answers  | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/mistral%202%20chat%20model/qna%20deep%20dataset.txt) Example of dataset                                                            |
+| 2) Format the txt file into Mistral Accepting Template CSV  | Convert the data into a format compatible with Mistral 2  | [🔗](https://huggingface.co/datasets/mirajbhandari/mistral2_finetune_dataset) Example of Mistral accepting template data<br><br>[🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/mistral%202%20chat%20model/Dataset_formation_for_mistral.ipynb) Code for formation of mistral accepting CSV |
+| 3) Upload the Mistral Accepting Csv file into Hugging Face dataset repo | Share the dataset in Hugging Face repo to use it in training directly  | -                                                                                     |
+| 4) Run the Jupyter Code for Tuning the Mistral 2 with just prepared dataset | Execute the code to fine-tune Mistral 2 with the prepared dataset | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/mistral%202%20chat%20model/mistral2chatfinetuning.ipynb) Train Code                                                                 |
+| 5) Test the Tuned model                                      | Evaluate the performance of the fine-tuned model          | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/mistral%202%20chat%20model/testing%20the%20fine%20tuned%20mistral2%20chat%20model/testing_mistral2_after_fine_tuned.ipynb) Test Code |
+
+
 # Contributing
 
 We welcome contributions! If you'd like to contribute to this project, whether it's by suggesting improvements, opening issues, or submitting pull requests, please feel free to do so. Your input is valuable in making this resource even better.
 
 <a id="fine-tuning-llama-2-steps"></a>
 <a id="fine-tuning-gemma-steps"></a>
+<a id="Fine Tuning Mistral Steps"></a>
 
 ### Created by Miraj Deep Bhandari 😍
