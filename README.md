@@ -1,16 +1,13 @@
-# LLM Fine Tuning:  
+# Fine-Tuning Large Language Models (LLMs)
 
-**Hello there welcome! here you would find how can you fine tune any llm for custom purposes with your own dataset. you can custom qna chat bot for you 
-your shop, offices, school and other business specific purposes. here you know how can you form chat template to fine tune any llm model and test it using hugging face transformers.**
+**Welcome! Here, you'll discover how to fine-tune any LLM for your specific needs using your own dataset. Whether it's for your shop, office, school, or any other business, you can create a custom Q&A chatbot tailored to your requirements. Let's dive into how you can structure a chat template and fine-tune an LLM model using Hugging Face Transformers.**
 
-## Fine Tuning Models
+## Fine-Tuning Models
 
-| Article | Resources |
-| -------- | :---------: |
-| 1) Fine Tune llama 2 | [🔗]()|
-|  2) Fine Tune llama 2 | [🔗]()|
-
+| Article                                     | Resources |
+| ------------------------------------------- | :-------: |
+| 1) Fine-Tune LLM: A Comprehensive Guide     | [🔗](#)  |
+| 2) Advanced Techniques for LLM Fine-Tuning  | [🔗](#)  |
 
 # Contributing
-Contributions are welcome! If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
-
+We welcome contributions! If you'd like to contribute to this project, whether it's by suggesting improvements, opening issues, or submitting pull requests, please feel free to do so. Your input is valuable in making this resource even better.
