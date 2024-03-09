@@ -9,6 +9,14 @@
 | 1) Fine Tune Llama 2 Chat Model (Code)      | [🔗](#fine-tuning-llama-2-steps)  |
 | 2) Fine Tune Gemma 2b-it Chat Model (Code)  | [🔗](#fine-tuning-gemma-steps)  |
 
+
+## Find Chat Template for Fine-Tuning of any Models 
+| Notebook File                               | Click Below |
+| ------------------------------------------- | :-------: |
+| Get Chat Template for llms for tuning (Code)| [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/formation_of_chat_template_of_any_llm.ipynb)  |
+
+
+
 ### SFT Fine Tuning Llama 2 Steps:
 
 | Steps                                                        | Description                                               | Resources                                                                             |
