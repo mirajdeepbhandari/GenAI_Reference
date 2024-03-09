@@ -18,6 +18,7 @@
 
 
 <br><br>
+<a id="fine-tuning-llama-2-steps"></a>
 ### a) SFT Fine Tuning Llama 2 Steps:
 
 | Steps                                                        | Description                                               | Resources                                                                             |
@@ -29,6 +30,7 @@
 | 5) Test the Tuned model                                      | Evaluate the performance of the fine-tuned model          | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/llma%202%20chat%20model/testing%20the%20fine%20tuned%20llma2%20chat%20model/testing_llma2_after_fine_tuned.ipynb) Test Code |
 
 <br><br>
+<a id="fine-tuning-gemma-steps"></a>
 ### b) SFT Fine Tuning Gemma Steps:
 
 | Steps                                                        | Description                                               | Resources                                                                             |
@@ -40,7 +42,7 @@
 | 5) Test the Tuned model                                      | Evaluate the performance of the fine-tuned model          | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/gemma%202b-it%20model/testing%20the%20fine%20tuned%20gemma%20chat%20model/Testing_gemma_fine_Tuning_model.ipynb) Test Code    |
 
 <br><br>
-
+<a id="fine-tuning-Mistral-steps"></a>
 ### c) SFT Fine Tuning Mistral Steps:
 
 | Steps                                                        | Description                                               | Resources                                                                             |
@@ -56,8 +58,6 @@
 
 We welcome contributions! If you'd like to contribute to this project, whether it's by suggesting improvements, opening issues, or submitting pull requests, please feel free to do so. Your input is valuable in making this resource even better.
 
-<a id="fine-tuning-llama-2-steps"></a>
-<a id="fine-tuning-gemma-steps"></a>
-<a id="fine-tuning-Mistral-steps"></a>
+
 
 ### Created by Miraj Deep Bhandari 😍
