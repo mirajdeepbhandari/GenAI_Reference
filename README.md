@@ -1,8 +1,8 @@
-# Fine-Tuning Large Language Models (LLMs)
+# 1) Fine-Tuning Large Language Models (LLMs)
 
 **Welcome! Here, you'll discover how to fine-tune any LLM for your specific needs using your own dataset. Whether it's for your shop, office, school, or any other business, you can create a custom Q&A chatbot tailored to your requirements. Let's dive into how you can structure a chat template and fine-tune an LLM model using Hugging Face Transformers.**
 
-## Fine-Tuning Models (Train on Custom DataSet Code)
+## 1.1) Fine-Tuning Models (Train on Custom DataSet Code)
 
 | Content                                       | Click Below |
 | ------------------------------------------- | :-------: |
@@ -10,7 +10,7 @@
 | 2) Fine Tune Gemma 2b-it Chat Model (Code)  | [🔗](#fine-tuning-gemma-steps)  |
 
 
-## Find Chat Template for Fine-Tuning of any Models 
+## 1.2) Find Chat Template for Fine-Tuning of any Models 
 | Notebook File                               | Click Below |
 | ------------------------------------------- | :-------: |
 | Get Chat Template for llms for tuning (Code)| [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/formation_of_chat_template_of_any_llm.ipynb)  |
