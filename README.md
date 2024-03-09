@@ -38,6 +38,7 @@
 | 4) Run the Jupyter Code for Tuning Gemma with just prepared dataset | Execute the code to fine-tune Gemma with the prepared dataset | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/gemma%202b-it%20model/gemma_2b_it_finetune.ipynb) Train Code                                                                 |
 | 5) Test the Tuned model                                      | Evaluate the performance of the fine-tuned model          | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/gemma%202b-it%20model/testing%20the%20fine%20tuned%20gemma%20chat%20model/Testing_gemma_fine_Tuning_model.ipynb) Test Code    |
 
+<br><br>
 # Contributing
 
 We welcome contributions! If you'd like to contribute to this project, whether it's by suggesting improvements, opening issues, or submitting pull requests, please feel free to do so. Your input is valuable in making this resource even better.
