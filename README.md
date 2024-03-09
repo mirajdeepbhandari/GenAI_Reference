@@ -6,7 +6,7 @@
 
 ## Fine-Tuning Models (Train on Custom DataSet Code)
 
-| File                                        | Resources |
+| Content                                       | Resources |
 | ------------------------------------------- | :-------: |
 | 1) Fine Tune Llama 2 Chat Model (Code)      | [🔗](#)  |
 | 2) Fine Tune Gemma 2b-it Chat Model (Code)  | [🔗](#)  |
@@ -23,6 +23,15 @@
 | 4) Run the Jupyter Code for Tuning the Llama 2 with just prepared dataset | Execute the code to fine-tune Llama 2 with the prepared dataset | [🔗](#) Train Code                                                                 |
 | 5) Test the Tuned model                                      | Evaluate the performance of the fine-tuned model          | [🔗](#) Test Code                                                                    |
 
+### Fine Tuning Gemma Steps:
+
+| Steps                                                        | Description                                               | Resources                                                                             |
+| ----------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 1) Prepare the txt file containing questions and answers    | Collect and organize questions and corresponding answers  | [🔗](#) Example of dataset                                                            |
+| 2) Format the txt file into Gemma Accepting Template CSV        | Convert the data into a format compatible with Gemma    | [🔗](#) Example of Gemma accepting template data<br><br>[🔗](#) Code for formation of Gemma accepting CSV |
+| 3) Upload the Gemma Accepting Csv file into Hugging Face dataset repo | Share the dataset in Hugging Face repo to use it in training directly  | -                                                                                     |
+| 4) Run the Jupyter Code for Tuning Gemma with just prepared dataset | Execute the code to fine-tune Gemma with the prepared dataset | [🔗](#) Train Code                                                                 |
+| 5) Test the Tuned model                                      | Evaluate the performance of the fine-tuned model          | [🔗](#) Test Code    |
 
 
 # Contributing
