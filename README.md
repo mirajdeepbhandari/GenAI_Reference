@@ -43,7 +43,7 @@
 
 <br><br>
 <a id="fine-tuning-Mistral-steps"></a>
-### c) SFT Fine Tuning on Mistral Steps:
+### c) SFT Fine Tuning on Mistral 7 billion parameters model on colab free GPU with Inference Steps:
 
 | Steps                                                        | Description                                               | Resources                                                                             |
 | ----------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------- |
