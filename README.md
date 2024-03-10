@@ -53,6 +53,13 @@
 | 4) Run the Jupyter Code for Tuning the Mistral  with just prepared dataset and upload adapters containing files to hugging face models  | Execute the code to fine-tune Mistral  with the prepared dataset | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/Mistral%207b%20Instruct%20v1%20model/Fine_Tuning_Mistral_7b_Instruct.ipynb) Train Code                                                                 |
 | 5) Test the Tuned model by using PeftModel                                      | Evaluate the performance of the fine-tuned model          | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/Mistral%207b%20Instruct%20v1%20model/testing%20the%20fine%20tuned%20Mistral%207b%20Instruct%20chat%20model/Testing_the_Mistral_7b_model_with_PeftConfig.ipynb) Test Code |
 
+<br><br>
+# Quantization Theory and notes
+
+| Theory Topics                                       | Notes |
+| ------------------------------------------- | :-------: |
+| Quantization in llm      | [🔗](#)  |
+
 
 # Contributing
 
