@@ -54,11 +54,18 @@
 | 5) Test the Tuned model by using PeftModel                                      | Evaluate the performance of the fine-tuned model          | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/Mistral%207b%20Instruct%20v1%20model/testing%20the%20fine%20tuned%20Mistral%207b%20Instruct%20chat%20model/Testing_the_Mistral_7b_model_with_PeftConfig.ipynb) Test Code |
 
 <br><br>
-# Quantization Theory and notes
+# LLM Theory and notes
 
-| Theory Topics                                       | Notes |
-| ------------------------------------------- | :-------: |
-| Quantization in llm      | [🔗](#)  |
+| Theory Topics                                                                                                                | Notes |
+| ---------------------------------------------------------------------------------------------------------------------------- | :-------: |
+| Quantization in llm                                                                                                          | [🔗](#)  |
+| LoRA: Low-Rank Adaptation && QLoRA: Quantized Low-Rank Adaptation                                                            | [🔗](#)  |
+| Parameter-Efficient Fine-Tuning (PEFT)                                                                                       | [🔗](#)  |
+| Supervised fine-tuning (SFT)                                                                                                 | [🔗](#)  |
+| Direct Preference Optimization (DPO)                                                                                         | [🔗](#)  |
+
+
+
 
 
 # Contributing
