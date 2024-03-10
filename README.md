@@ -54,7 +54,7 @@
 | 5) Test the Tuned model by using PeftModel                                      | Evaluate the performance of the fine-tuned model          | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/Mistral%207b%20Instruct%20v1%20model/testing%20the%20fine%20tuned%20Mistral%207b%20Instruct%20chat%20model/Testing_the_Mistral_7b_model_with_PeftConfig.ipynb) Test Code |
 
 <br><br>
-# LLM Theory and notes
+# LLM Theory and notes (coming nearly soon)
 
 | Theory Topics                                                                                                                | Notes |
 | ---------------------------------------------------------------------------------------------------------------------------- | :-------: |
@@ -66,7 +66,7 @@
 
 
 
-
+<br><br>
 
 # Contributing
 
