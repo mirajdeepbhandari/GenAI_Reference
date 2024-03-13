@@ -58,7 +58,7 @@
 
 | Theory Topics                                                                                                                | Notes |
 | ---------------------------------------------------------------------------------------------------------------------------- | :-------: |
-| Quantization in llm                                                                                                          | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/quantazation_lms.pdf)  |
+| Quantization in llm                                                                                                          | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/quantazationllmsnotes.pdf)  |
 | LoRA: Low-Rank Adaptation && QLoRA: Quantized Low-Rank Adaptation                                                            | [🔗](#)  |
 | Supervised fine-tuning (SFT)                                                                                                 | [🔗](#)  |
 | Direct Preference Optimization (DPO)                                                                                         | [🔗](#)  |
