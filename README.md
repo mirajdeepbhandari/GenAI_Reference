@@ -7,7 +7,7 @@
 
 | Content                                       | Click Below |
 | ------------------------------------------- | :-------: |
-| a) Cuda Setup With Pytorch       | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/formation_of_chat_template_of_any_llm.ipynb)  |
+| a) Cuda Setup With Pytorch       | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/cuda%20and%20pytourch%20setup%20for%20llm.pdf)  |
 
 <br><br>
 ## 1.1) SFT Fine-Tuning on Models (Train on Custom DataSet Code)
