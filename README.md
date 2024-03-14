@@ -2,6 +2,14 @@
 
 **Welcome! Here, you'll discover how to fine-tune any LLM for your specific needs using your own dataset. Whether it's for your shop, office, school, or any other business, you can create a custom Q&A chatbot tailored to your requirements. Let's dive into how you can structure a chat template and fine-tune an LLM model using Hugging Face Transformers.**
 <br><br>
+
+## 1.1) Cuda Setup With Pytorch to run LLM locally on your GPU
+
+| Content                                       | Click Below |
+| ------------------------------------------- | :-------: |
+| a) Cuda Setup With Pytorch       | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/formation_of_chat_template_of_any_llm.ipynb)  |
+
+<br><br>
 ## 1.1) SFT Fine-Tuning on Models (Train on Custom DataSet Code)
 
 | Content                                       | Click Below |
