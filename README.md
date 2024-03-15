@@ -76,6 +76,11 @@
 
 <br><br>
 
+| Steps                                                         | Resources                                                                            |
+| -----------------------------------------------------------  |------------------------------------------------------------------------------------- |
+| 1) Fine Tuning Train Code (Unsloth)    | [🔗]() Train Code|   
+| 1) Fine Tuning Test Code using Huggingface Transformers (merged model)    | [🔗]() Test Code|
+
 # Contributing
 
 We welcome contributions! If you'd like to contribute to this project, whether it's by suggesting improvements, opening issues, or submitting pull requests, please feel free to do so. Your input is valuable in making this resource even better.
