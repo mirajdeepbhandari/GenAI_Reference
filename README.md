@@ -17,7 +17,7 @@
 | a) Fine Tune Llama 2 Chat Model (Code)      | [🔗](#fine-tuning-llama-2-steps)  |
 | b) Fine Tune Gemma 2b-it Chat Model (Code)  | [🔗](#fine-tuning-gemma-steps)  |
 | c) Fine Tune Mistral-7B For Chat (Code)   | [🔗](#fine-tuning-Mistral-steps)  |
-| d) Unsloth Fine Tune Mistral-7b (code)           | [🔗](#fine-tuning-Mistral-steps)  |
+| d) Unsloth Fine Tune Mistral-7b (code)           | [🔗](#fine-tuning-unsloth)  |
 
 <br><br>
 ## 1.2) Find Chat Template for Fine-Tuning of any Models 
@@ -63,6 +63,15 @@
 | 5) Test the Tuned model by using PeftModel(Hugging Face) and Unsloth (useful for adapters only)                                      | Evaluate the performance of the fine-tuned model          | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/tree/main/llm%20finetuning/Mistral%207b%20Instruct%20v1%20model/testing%20the%20fine%20tuned%20Mistral%207b%20Instruct%20chat%20model) Test Code |
 
 <br><br>
+<a id="fine-tuning-unsloth"></a>
+# d) LLM Fine Tuning using Unsloth (Train and Test Codes)
+
+| Steps                                                         | Resources                                                                            |
+| -----------------------------------------------------------  |------------------------------------------------------------------------------------- |
+| 1) Fine Tuning Train Code (Unsloth)    | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/Unsloth%20Finetuning/unsloth_mistral_finetuning.ipynb) Train Code|   
+| 1) Fine Tuning Test Code using Huggingface Transformers (merged model)    | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/Unsloth%20Finetuning/testing_usloth_tuning_model_from_hugging_face.ipynb) Test Code|
+
+<br><br>
 # LLM Fine Tuning Theory and notes (coming nearly soon)
 
 | Theory Topics                                                                                                                | Notes |
@@ -73,13 +82,7 @@
 | Direct Preference Optimization (DPO)                                                                                         | [🔗](#)  |
 
 
-
 <br><br>
-
-| Steps                                                         | Resources                                                                            |
-| -----------------------------------------------------------  |------------------------------------------------------------------------------------- |
-| 1) Fine Tuning Train Code (Unsloth)    | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/Unsloth%20Finetuning/unsloth_mistral_finetuning.ipynb) Train Code|   
-| 1) Fine Tuning Test Code using Huggingface Transformers (merged model)    | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/Unsloth%20Finetuning/testing_usloth_tuning_model_from_hugging_face.ipynb) Test Code|
 
 # Contributing
 
