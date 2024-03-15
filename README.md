@@ -69,7 +69,7 @@
 | Steps                                                         | Resources                                                                            |
 | -----------------------------------------------------------  |------------------------------------------------------------------------------------- |
 | 1) Fine Tuning Train Code (Unsloth)    | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/Unsloth%20Finetuning/unsloth_mistral_finetuning.ipynb) Train Code|   
-| 1) Fine Tuning Test Code using Huggingface Transformers (merged model)    | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/Unsloth%20Finetuning/testing_usloth_tuning_model_from_hugging_face.ipynb) Test Code|
+| 2) Fine Tuning Test Code using Huggingface Transformers (merged model)    | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/Unsloth%20Finetuning/testing_usloth_tuning_model_from_hugging_face.ipynb) Test Code|
 
 <br><br>
 # LLM Fine Tuning Theory and notes (coming nearly soon)
