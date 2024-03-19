@@ -88,8 +88,8 @@
 | Quantization GGUF (GPT-Generated Unified Format)                                                                             | Note Book |
 | ---------------------------------------------------------------------------------------------------------------------------- | :-------: |
 | Conversion Of LLM Into GGUF Format  🛠️🪛                                                                                 | [🔗Gemma]() <br>[🔗Llama2]() |
-| Testing GGUF Model using( 1. llama_cpp(Llama), 2. llama_index(LlamaCPP), 3. langchain(LlamaCpp) )  🛠️🪛                     | [🔗]() |
-| Testing GGUF Model using C-Transformers  🛠️🪛                                                                               | [🔗]() |
+| Testing GGUF Model using( 1. llama_cpp(Llama), 2. llama_index(LlamaCPP), 3. langchain(LlamaCpp) )  📝                    | [🔗]() |
+| Testing GGUF Model using C-Transformers  📝                                                                              | [🔗]() |
 
 <br><br>
 
