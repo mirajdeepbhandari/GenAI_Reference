@@ -83,7 +83,7 @@
 
 
 <br><br>
-# Quantizzation of LLM To GGUF format and Testing it
+# Quantization of LLM To GGUF format and Testing it
 
 | Quantization GGUF (GPT-Generated Unified Format)                                                                             | Note Book |
 | ---------------------------------------------------------------------------------------------------------------------------- | :-------: |
