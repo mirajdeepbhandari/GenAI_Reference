@@ -89,7 +89,7 @@
 | -----------------------------------------------------------------------------------------------------------------------------------| :-------: |
 | Conversion Of LLM Into GGUF Format  🛠️🪛                                                                                          | [🔗Gemma](https://github.com/mirajdeepbhandari/GenerativeAI_Reference/blob/main/LLM%20Quantization%20GGUF/Conversion%20LLM%20into%20GGUF%20code/Quantize_Gemma_Model_To_GGUF.ipynb)  |
 | Testing GGUF Model using( 1. llama_cpp(Llama), 2. llama_index(LlamaCPP), 3. langchain(LlamaCpp) )  📝                                   | [🔗](https://github.com/mirajdeepbhandari/GenerativeAI_Reference/blob/main/LLM%20Quantization%20GGUF/Testing%20GGUF%20Models%20Code/GGUF_MODEL_TEST.ipynb) |
-| Testing GGUF Model using C-Transformers  📝                                                                              | [🔗]() |
+| Testing GGUF Model using C-Transformers  📝                                                                              | [🔗](https://github.com/mirajdeepbhandari/GenerativeAI_Reference/blob/main/LLM%20Quantization%20GGUF/Testing%20GGUF%20Models%20Code/ctransformers_gguf_and_ggml_test.ipynb) |
 
 <br><br>
 
