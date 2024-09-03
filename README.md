@@ -10,6 +10,8 @@
 | a) Cuda Setup With Pytorch       | [🔗](https://github.com/mirajdeepbhandari/GenAI_Reference/blob/main/llm%20finetuning/cuda%20and%20pytourch%20setup%20for%20llm.pdf)  |
 
 <br><br>
+
+ i need capitalcity, desc, totalpopulation, totallandarea of nepal in json with no preamble
 ## 1.1) SFT Fine-Tuning on Models (Train on Custom DataSet Code)
 
 | Content                                       | Click Below |
